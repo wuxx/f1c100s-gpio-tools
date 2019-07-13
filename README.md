@@ -1,6 +1,6 @@
 # f1c100s-gpio-tools
 Command-line access to F1C100s GPIO
-`
+```
 root@f1c100s:~#gpio
 usage: gpio help
        gpio read  [PA0|PA1...]
@@ -191,4 +191,4 @@ GPIO_DRV0: 0x00000aaa
 GPIO_DRV1: 0x00000000
 GPIO_PUL0: 0x00000555
 GPIO_PUL1: 0x00000000
-`
+```
